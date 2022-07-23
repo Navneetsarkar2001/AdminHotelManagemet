@@ -1,0 +1,140 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Checkout",
+      "request": "launch",
+      "mainClass": "Checkout",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Pickup",
+      "request": "launch",
+      "mainClass": "Pickup",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Updateroom",
+      "request": "launch",
+      "mainClass": "Updateroom",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Updatecheck",
+      "request": "launch",
+      "mainClass": "Updatecheck",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch AddEmployee",
+      "request": "launch",
+      "mainClass": "AddEmployee",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Addcustomer",
+      "request": "launch",
+      "mainClass": "Addcustomer",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Addriver",
+      "request": "launch",
+      "mainClass": "Addriver",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Addrooms",
+      "request": "launch",
+      "mainClass": "Addrooms",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch CustomerInfo",
+      "request": "launch",
+      "mainClass": "CustomerInfo",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Dashboard",
+      "request": "launch",
+      "mainClass": "Dashboard",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Department",
+      "request": "launch",
+      "mainClass": "Department",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch EmployeeInfo",
+      "request": "launch",
+      "mainClass": "EmployeeInfo",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Hotelmanagementsystem",
+      "request": "launch",
+      "mainClass": "Hotelmanagementsystem",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Login",
+      "request": "launch",
+      "mainClass": "Login",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch ManagerInfo",
+      "request": "launch",
+      "mainClass": "ManagerInfo",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Reception",
+      "request": "launch",
+      "mainClass": "Reception",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Room",
+      "request": "launch",
+      "mainClass": "Room",
+      "projectName": "Hotel-management_2b6602e5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Searchrooms",
+      "request": "launch",
+      "mainClass": "Searchrooms",
+      "projectName": "Hotel-management_2b6602e5"
+    }
+  ]
+}
